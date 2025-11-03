@@ -15,9 +15,3 @@ Chrome extension + web dashboard to post dealership cars to Facebook Marketplace
 cd backend
 npm install
 npm start
-cd web
-npm install
-npm run dev
-cd extension
-npm install
-npm run build

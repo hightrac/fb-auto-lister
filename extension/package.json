@@ -1,0 +1,14 @@
+{
+  "name": "extension",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack --mode production",
+    "watch": "webpack --watch"
+  },
+  "devDependencies": {
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.5.4"
+  }
+}
